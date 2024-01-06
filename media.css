@@ -76,7 +76,7 @@
         position: absolute;
         background: url(../Images/Close.png)no-repeat;
         /*filter: var(--color-filter);*/
-        background-color: #fff;
+        background-color:  var(--second-color);
         color: var(--first-color);
         background-size: 12px;
         background-position: center;
