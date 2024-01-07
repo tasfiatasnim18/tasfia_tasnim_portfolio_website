@@ -502,6 +502,11 @@ header.sticky .nav-bar{
     width: 80%;
 }
 
+.bar .ui/ux:before{
+    width: 80%;
+}
+
+
 .experience-card{
     background: var(--card-bg-color);
     border-bottom: 3px solid var(--second-color);
