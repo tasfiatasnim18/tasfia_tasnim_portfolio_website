@@ -74,7 +74,7 @@
 
     .nav-close-btn{
         position: absolute;
-        background: url(../Images/Close.png)no-repeat;
+        
         
         background-size: 12px;
         background-position: center;
@@ -86,8 +86,13 @@
         cursor: pointer;
     }
 
+     .nav-close-btn i{
+        font-size: 2em;
+        color: var(--first-color);
+    }
+
     .nav-menu-btn{
-    background: url(../Images/Menu.png)no-repeat;
+    
     background-size: 30px;
     background-position: center;
     color: var(--second-color);
@@ -95,6 +100,11 @@
     height: 40px;
     cursor: pointer;
     display: block;
+    }
+
+    .nav-menu-btn i{
+         font-size: 2em;
+        color: var(--first-color);
     }
 
     /*--------Home Section---------*/
