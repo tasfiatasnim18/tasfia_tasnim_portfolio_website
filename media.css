@@ -75,8 +75,7 @@
     .nav-close-btn{
         position: absolute;
         background: url(../Images/Close.png)no-repeat;
-        background-color:  var(--second-color);
-        color: var(--first-color);
+        
         background-size: 12px;
         background-position: center;
         width: 40px;
