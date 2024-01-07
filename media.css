@@ -218,7 +218,7 @@
 
     .home-container .home-img img{
         width: 65%;
-        transform: translate(80px, -50px);
+        transform: translate(80px, -100px);
     }
 
     .home .home-container .info{
